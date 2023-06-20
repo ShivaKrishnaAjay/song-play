@@ -1,0 +1,118 @@
+*{margin: 0;
+padding: 0;
+}
+
+
+nav
+{ 
+        background-color: rgb(15, 14, 14);
+  height: 100vh;
+    width: 15vw;
+    padding: 1px;
+    position: fixed;
+
+
+}
+
+
+.img1{
+    height: 25px;
+    width: 28px;
+    padding: 9px
+}
+
+
+
+.start{
+    display: flex;
+}
+
+.start1{
+
+        padding: 41px 2px;
+    
+}
+p{
+    color:white;
+    margin:14px;
+}
+
+body{
+    display:flex;
+
+    background-color:rgb(36 31 31);
+}
+
+
+.main {
+    max-width: calc(100vw - 15vw);
+    background-color: rgb(95, 84, 84);
+    margin: 0vw 0vw 1vw 15vw;
+    overflow: hidden;
+}
+.main1{
+    display: flex;
+    background-color: gray;
+    margin: 77px 0px 5px 3px;
+    border: 3px solid black;
+    border-radius: 11px;
+    height: 67vh;
+    max-width: calc(100vw - 15vw);
+    padding: 0px 0px
+    }
+
+    
+
+    .main2{
+        background-color: rgb(154, 148, 148);
+        margin: 54px;
+        height: 39vh;
+        width: 81vw
+    }
+.mains{
+    display: flex;
+    overflow: scroll;
+}
+
+#logo{
+    height: 50vh;
+    width: 55vh;
+    margin: 39px;
+
+}
+h1{
+    padding: 0px;
+    font-size: 60px;
+    color: white;
+    margin: 75px 0px 0px -95px;
+}
+
+h2{
+    margin: 3px;
+    padding: 2px;
+    color: white;
+
+}
+h3{
+
+    font-size: 33px;
+    display: block;
+    color: white;
+}
+
+a{
+margin: 13px;
+
+
+}
+
+.mainsongs{
+ display: flex;;
+
+}
+
+a img{
+    height: 153px;
+    width: 183px;
+
+}
